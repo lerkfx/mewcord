@@ -1,7 +1,7 @@
 # MewCord
 ---
 
-[![Run on Replit](https://camo.githubusercontent.com/4deb0e1fe2859b5e7359771d9b83dbeaafef4009c2f312df5b84bf9f6b0951c8/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f53756468616e506c61797a2f446973636f72642d4d75736963426f74)](https://replit.com/@LerkFX/mewcord) [![Version 1.0.0](https://cdn.discordapp.com/attachments/1015650380908068884/1015961096127008788/20220904_175248_1_2.png)](https://github.com/lerkfx/mewcord/releases/tag/discord-bot) 
+[![Run on Replit](https://cdn.discordapp.com/attachments/1015650380908068884/1015965188853334086/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f53756468616e506c61797a2f446973636f72642d4d75736963426f74_1.png) [![Version 1.0.0](https://cdn.discordapp.com/attachments/1015650380908068884/1015961096127008788/20220904_175248_1_2.png)](https://github.com/lerkfx/mewcord/releases/tag/discord-bot) 
 
 > Mewcord is a customizable bot which is meant to be used with Myuu - Discord meets Pokemon! It will lock the channel when a shiny or Greninja-Ash is detected!
 
